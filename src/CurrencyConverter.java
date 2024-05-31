@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class CurrencyConverter {
 
-    private static final String API_KEY = "01a33f2ddbd48cf18a51080f"; // Substitua pela sua chave de API
+    private static final String API_KEY = "01a33f2ddbd48cf18a51080f"; 
     private static final String API_URL_TEMPLATE = "https://v6.exchangerate-api.com/v6/%s/pair/%s/%s";
 
     public static void main(String[] args) {
